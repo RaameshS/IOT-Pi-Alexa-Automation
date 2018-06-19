@@ -1,4 +1,4 @@
-# IOT-Pi3-Alexa-Automation
+# IOT-Pi-Alexa-Automation
 
 Youtube tutorial https://www.youtube.com/watch?v=uS5dTx8vjq4
 
