@@ -1,11 +1,3 @@
-""" name_port_gpio.py
- 
-    This is a demo python file showing how to take paramaters
-    from command line for device name, port, and GPIO.
-    All credit goes to https://github.com/toddmedema/echo/
-    for making the first working versions of this code.
-"""
- 
 import fauxmo
 import logging
 import time
