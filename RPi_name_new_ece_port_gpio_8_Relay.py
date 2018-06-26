@@ -30,7 +30,7 @@ class device_handler(debounce_handler):
             GPIO.setmode(GPIO.BOARD) ## Use board pin numbering
             GPIO.setup(int(11), GPIO.OUT)   ## Setup GPIO Pin to OUTPUT
             GPIO.output(int(11), state) ## State is true/false
-            elif name =="bed room":
+        elif name =="bed room":
             GPIO.setmode(GPIO.BOARD) ## Use board pin numbering
             GPIO.setup(int(13), GPIO.OUT)   ## Setup GPIO Pin to OUTPUT
             GPIO.output(int(13), state) ## State is true/false
